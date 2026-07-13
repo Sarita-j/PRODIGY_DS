@@ -38,9 +38,23 @@ Topics Covered
 
 ---
 
-### 🚧 Task 2
+### ✅ Task 2
 
-Coming Soon
+Data Cleaning and Exploratory Data Analysis (EDA) using the Titanic Dataset.
+
+Topics Covered
+
+- Data Cleaning
+- Handling Missing Values
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Correlation Heatmap
+- Box Plot
+- Histogram
+- Pair Plot
+- Pandas
+- Matplotlib
+- Seaborn
 
 ---
 
