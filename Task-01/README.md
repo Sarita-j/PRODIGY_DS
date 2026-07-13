@@ -1,4 +1,4 @@
-# Prodigy InfoTech Data Science Internship - Task 1
+# Prodigy InfoTech Data Science Internship - Task 01
 
 ## Objective
 Create a bar chart and histogram to visualize the distribution of a continuous variable (population) using the World Bank Population dataset.
