@@ -1,6 +1,6 @@
-# Titanic Dataset - Data Cleaning and Exploratory Data Analysis (EDA)
+## Prodigy InfoTech Data Science Internship - Task 02
 
-## Prodigy InfoTech Data Science Internship
+# Titanic Dataset - Data Cleaning and Exploratory Data Analysis (EDA)
 
 ### Task 02
 
