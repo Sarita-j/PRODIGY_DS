@@ -86,9 +86,30 @@ Decision Tree Classifier using the Bank Marketing Dataset.
 
 ---
 
-### 🚧 Task 4
+### ✅ Task 4
 
-Coming Soon
+Sentiment Analysis and Visualization of Social Media Data.
+
+### Topics Covered
+
+- Data Loading
+- Data Exploration
+- Data Cleaning
+- Handling Missing Values
+- Removing Duplicate Rows
+- Text Data Cleaning
+- Sentiment Analysis
+- Sentiment Distribution
+- Entity Analysis
+- Text Length Analysis
+- Data Visualization
+- Sentiment by Entity
+- Histogram
+- Box Plot
+- Heatmap
+- Pandas
+- Matplotlib
+- Seaborn
 
 ---
 
