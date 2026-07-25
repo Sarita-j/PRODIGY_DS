@@ -15,7 +15,9 @@ Welcome to my Data Science Internship repository. This repository contains all t
 - Python
 - Pandas
 - Matplotlib
-- VS Code
+- Seaborn
+- Scikit-learn
+- Visual Studio Code
 - Git
 - GitHub
 
