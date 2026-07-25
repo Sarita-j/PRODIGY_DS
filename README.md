@@ -58,9 +58,31 @@ Topics Covered
 
 ---
 
-### 🚧 Task 3
+### ✅ Task 3
 
-Coming Soon
+Decision Tree Classifier using the Bank Marketing Dataset.
+
+### Topics Covered
+
+- Data Loading
+- Data Exploration
+- Data Cleaning
+- Handling Missing Values
+- Removing Duplicate Rows
+- Label Encoding
+- Feature Selection
+- Train-Test Split
+- Decision Tree Classifier
+- Model Training
+- Model Prediction
+- Model Evaluation
+- Accuracy Score
+- Classification Report
+- Confusion Matrix
+- Decision Tree Visualization
+- Pandas
+- Matplotlib
+- Scikit-learn
 
 ---
 
